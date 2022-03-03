@@ -1,19 +1,31 @@
 # EDABIT
 
-____-TYPESCRIPT-____
+** ____-Section A: Code Review-____ **
 
-1. code.TS: function that returns the string "something" joined    with a space " " and the given argument a.
+1. Instructions
+Please present your review in a Markdown file.
+Please refer to line numbers in your review.
+Please review the hypothetical student sumbissions by commenting on
+Correctness
+Efficiency
+Style
+Documentation
 
-2. code 2.TS: This program creates a *  function that takes the base and height of a triangle and return its area.
 
-3. code 3.TS: in this program,  All you have to do is type return "hello edabit.com" between the curly braces { } and then click the Check button. If you did this correctly,.
+** ___ Section B: Projects ___ **
 
-4. code 4.TS: this is a function that takes two numbers as arguments and returns their sum.
+2. Instructions
+Please share a GitHub URL to a project you're most proud of.
+You may include the link in the repository you are submitting for the test.
+You may have completed it in the past or it may be freshly completed for this test.
+The project could be in any domain using any technology stack.
 
-5. code 5.ts: this is a function that converts hours into seconds
+Section C: Code Challenge
 
-6. code 6.ts: is a function that converts minutes into seconds
-
-7. code 7.ts: Create a function that finds the maximum range of a triangle's third edge, where the side lengths are all integers.
-
-8. code 8.ts: correcting  errors and creating a function that takes an array contain."# take-home-test" 
+3. Instructions
+We suggest that you implement your solution in either Python, Java, Ruby or TypeScript.
+You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
+You are required to include a test suite for your solution.
+Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
+Please include a Markdown report that specifies and justifies the worst-case space complexity of your solution.
+Please attempt any one option of the alternatives available from below:
